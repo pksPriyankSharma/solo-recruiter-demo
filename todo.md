@@ -70,3 +70,22 @@
 - [x] Smooth transitions and hover effects
 - [x] Professional typography
 
+
+
+## Deployment Issues
+- [x] Fix Vercel configuration to use client folder
+- [x] Remove unnecessary server and shared folders
+- [x] Create vercel.json configuration file
+
+
+
+## Vercel Build Errors
+- [x] Fix vercel.json build command
+- [x] Add --legacy-peer-deps flag to npm install
+
+
+
+## Build Import Errors
+- [x] Fix client/src/const.ts to remove shared/const import
+- [x] Make environment variables optional or add defaults
+
